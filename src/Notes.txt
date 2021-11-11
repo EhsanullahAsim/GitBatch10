@@ -1,0 +1,21 @@
+What is Framewrok?
+it gives us an organized folder structure to follow while writing the code.
+
+Benefits of framework-
+    -- It increases code reusability, readability, easy to maintain
+
+what is Maven?
+     -- It is a build automation tool
+
+User stories - 12345 -  User should be able to login via valid credentials.
+
+Us - 87978 - Admin user should be able to add an employee to the hrms application
+
+US - 34342 - System should display error message when invalid login is performed
+
+1- When user enter valid/invalid username and password then display "Invalid credentials"
+
+2-  WHen user leaves password field empty then display "Password cannot be empty"
+
+3-  When user leaves username filed empty then display "User cannot be empty"
+
